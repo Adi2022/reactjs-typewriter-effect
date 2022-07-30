@@ -1,0 +1,32 @@
+.home{
+    background-color: black;
+    padding-left: 10%;
+    padding-top:3%;
+    display: flex;
+   
+   
+}
+ .heading{
+    color:white ;
+    font-size: 54px;
+}
+.text{
+    color:orangered;
+    font-size: 34px;
+    font-weight: bold;
+}
+.contact-me{
+    padding-top: 3%; 
+}
+.contact-me button{
+    background-color: aquamarine;
+    color:red;
+    font-size: 24px;
+    font-weight: bold;
+    height:20%;
+    border-radius: 14px;
+}
+.developer{
+   width:70%;
+   border-radius: 100px;
+}
